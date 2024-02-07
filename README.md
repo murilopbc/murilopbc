@@ -3,7 +3,7 @@
 
 
 <div>
-  <h2>Aprendiz em soluções digitais - Bosch</h2>
+  <h4>Aprendiz em soluções digitais - Bosch</h4>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopbc&layout=compact&langs_count=8&theme=nord"/>
 </div>
   <hr>
