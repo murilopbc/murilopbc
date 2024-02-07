@@ -3,7 +3,7 @@
 
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=murilopbc&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <h2>Aprendiz em soluções digitais - Bosch</h2>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopbc&layout=compact&langs_count=8&theme=nord"/>
 </div>
   <hr>
