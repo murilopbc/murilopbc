@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Murilo Poltronieri Batista de Campos, tenho 20 anos e sou natural de Indaiatuba-SP. Concluí o curso técnico em Admnistração-FIEC e de Desenvolvimento de Sistemas-SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC e trabalho na Bosch Campinas com automação e digitalização".
+Me chamo Murilo Poltronieri Batista de Campos, tenho 20 anos e sou natural de Indaiatuba-SP. Concluí o curso técnico em Admnistração-FIEC e de Desenvolvimento de Sistemas-SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC e trabalho na Bosch Campinas com automação e digitalização.
 
 <p = align = "left">
 <a href="https://instagram.com/murilopoltronieri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
