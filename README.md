@@ -105,7 +105,7 @@ Me chamo Murilo Poltronieri Batista de Campos, tenho 20 anos e sou natural de In
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopbc&theme=tokyonight&layout=compact&custom_title=Most Used Languages&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopbc&theme=tokyonight&layout=compact&custom_title=Most Used Languages&langs_count=10" 
   />
 
 </p>
